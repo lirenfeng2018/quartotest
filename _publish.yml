@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: f57019aa-ef0a-4b6b-ab29-3a2bbe590358
+      url: 'https://quartopub.com/sites/lifeng/quartotest'
