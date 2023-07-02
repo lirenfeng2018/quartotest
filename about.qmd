@@ -1,5 +1,5 @@
 ---
-title: "renfeng"
+title: "renfeng test"
 image: profile.jpg
 about:
   template: jolla
@@ -13,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com
+    - icon: weixin
+      text: wechat
+      href: https://weixin.com
 ---
 
 About this blog
